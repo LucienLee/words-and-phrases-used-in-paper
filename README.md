@@ -4,10 +4,16 @@ Words and phrases in paper
 Note some elegant words and phrases which could be used in paper.
 
 
+###Format
+
+####Easier word
+- better word: explain
+> Example sentence
+
+
 ##English Words
 
-
-####use 
+####use
 - employ: the use of something for a particular purpose
 > We employed a novel approach in this study.
 
@@ -29,6 +35,6 @@ strong = compelling
 
 
 a priori = from the earlier
-vz = 
+vz =
 el at
 i.e.
