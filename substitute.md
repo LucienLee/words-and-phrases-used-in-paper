@@ -5,6 +5,7 @@ exploit: using something as an opportunity for gaining an advantage
 according to = in the light of  
 deduce = elicit
 be mentioned = come up  
-produce = come up with  
+produce = come up with
+strong = compelling
 
 priori = from the earlier
