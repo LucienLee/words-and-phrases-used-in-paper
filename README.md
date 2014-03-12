@@ -4,25 +4,35 @@ Words and phrases in paper
 Note some elegant words and phrases which could be used in paper.
 
 
-###Format
+##How to Use
+
+Check the example below.
 
 ####Easier word
-- better word: explain
+__better word__: explain
 > Example sentence
 
 
 ##English Words
 
 ####use
-- employ: the use of something for a particular purpose
+__employ__: the use of something for a particular purpose
 > We employed a novel approach in this study.
 
-- exploit: using something as an opportunity for gaining an advantage
+__exploit__: using something as an opportunity for gaining an advantage
 > The attacker exploits the vulnerability of the application.
 
+---
+
 ####according to
-- in the light of  
-deduce = elicit
+__in the light of__
+>
+
+---
+
+####deduce
+__elicit__
+
 be mentioned = come up  
 produce = come up with
 strong = compelling
