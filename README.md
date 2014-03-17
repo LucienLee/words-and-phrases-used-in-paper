@@ -34,8 +34,7 @@ __elicit__: evoke or draw out (a reaction, answer, or fact) from someone
 __compelling__: convincing
 > There is no logically compelling argument to support their claims.
 
-
-
+---
 
 ##English phrases
 
@@ -47,18 +46,12 @@ __in the light of__: 按照
 
 ####be mentioned
 __come up__
-> The question hasn't come up yet
+> The question hasn't come up yet.
 
-####produce something
+####propose something
 __come up with__
 > I hope you can come up with a better plan than this.
 
 ---
 
 ##Latin
-
-
-a priori = from the earlier
-vz =
-el at
-i.e.
